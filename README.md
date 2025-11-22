@@ -1,4 +1,4 @@
-# ecommerce-data-analysisE-Commerce Sales Insights – Data Analytics Project
+# ecommerce-data-analysis
 
 A complete end-to-end Data Analytics Project using
 SQL, Python (Pandas, Matplotlib, Seaborn), and Power BI
